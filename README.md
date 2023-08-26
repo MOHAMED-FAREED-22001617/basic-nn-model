@@ -10,7 +10,7 @@ Explain the problem statement
 
 ## Neural Network Model
 
-![image](https://github.com/MOHAMED-FAREED-22001617/basic-nn-model/assets/121412904/187b521a-f331-4021-8a32-dbd16102d3ae)
+![image](https://github.com/MOHAMED-FAREED-22001617/basic-nn-model/assets/121412904/2d05c05b-fc6d-402f-b876-d32447df35cf)
 
 ## DESIGN STEPS
 
